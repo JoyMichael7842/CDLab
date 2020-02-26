@@ -1,0 +1,9 @@
+Word	Row	Column
+INT: 	4 	1
+INT: 	6 	2
+IF: 	8 	2
+WHILE: 	14 	2
+IF: 	15 	3
+IF: 	17 	4
+WHILE: 	18 	5
+RETURN: 	32 	2

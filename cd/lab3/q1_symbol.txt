@@ -1,0 +1,5 @@
+main	FUNC	0	G	0		
+fact5	int	4	G	0		
+factorial	FUNC	0	G	1	<int> <id,3> 	3> 
+n	int	4	 	0		
+val	int	4	L	0		

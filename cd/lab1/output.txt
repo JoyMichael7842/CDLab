@@ -1,0 +1,1 @@
+ #include               mmain() {  FILE                   cc;  fp ffopen("file.c");   c=                     !!=EEOF)  {   putchar(c);   c ggetc(fp);   }    fclose(fp);  }
